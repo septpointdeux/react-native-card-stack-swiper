@@ -33,6 +33,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
+    "react-lifecycles-compat": "^3.0.4"
 
   },
   "homepage": "https://github.com/lhandel/react-native-card-stack-swiper#readme"
