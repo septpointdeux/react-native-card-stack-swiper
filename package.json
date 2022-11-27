@@ -33,6 +33,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
+    "prop-types": "15.5.10",
     "react-lifecycles-compat": "^3.0.4"
 
   },
