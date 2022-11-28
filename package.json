@@ -25,8 +25,8 @@
   "author": "Ludwig Handel",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^17.0.2",
-    "react-native": "^0.68.2"
+    "react": "^18.1.0",
+    "react-native": "^0.70.5"
   },
   "bugs": {
     "url": "https://github.com/lhandel/react-native-card-stack-swiper/issues"
